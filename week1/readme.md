@@ -1,4 +1,4 @@
-# Week1
+# Week 1
 
 This week is dedicated to basic operations with images.
 * During the first lesson we will discuss what an image is
