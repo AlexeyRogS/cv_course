@@ -1,4 +1,4 @@
-# Week 4
+# Week 4 (Classification and object detection)
 
 This week is dedicated to object recognition tasks (in particular we will be looking into object detection task as the most interesting in practice). You will learn
 how object detection models work and how to use them. That is how to train and
