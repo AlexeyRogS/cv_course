@@ -11,3 +11,4 @@ how to use torch optimizers and build our first CNN for cifar classification (op
 study the code for mAP. Then we look in more detail at how augmentations work and
 used torch transformations as well as albumentations. We review object detection
 models and train Mask R-CNN for pedestrian detection. (object_detection.ipynb)
+* TrickingCNN.ipynb contains a funny example of how we can manipulate a trained model into making mistakes.
